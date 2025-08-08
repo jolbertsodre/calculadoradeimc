@@ -58,7 +58,7 @@ export default function ContactPage() {
         <div>
           <h2 className="text-lg text-justify">
             Para dúvidas, sugestões, feedbacks ou reclamações, preencha o
-            formulário abaixo e retornaremos asssim que possível por email.
+            formulário abaixo e retornaremos o contato por email.
           </h2>
         </div>
 
